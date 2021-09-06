@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hype</string>
+
+    <!-- Related to Login Fragment-->
+    <string name="user_name_hint">Enter user name</string>
+    <string name="password_hint">Enter password</string>
+    <string name="not_having_account">Not having an account? Create an account</string>
+    <string name="login_button_text">Login</string>
+</resources>
